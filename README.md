@@ -44,7 +44,7 @@ Web developer based in Comodoro Rivadavia, Argentina. Currently studying the
 
 ### Node.js / TypeScript
 
-- **[turnos-medicos](https://github.com/luci060925/turnos-medicos)** — REST API for managing medical specialties and professionals: full CRUD, soft deletes, cross-validation, and global error handling. In-memory data loaded from JSON. Node.js 24, TypeScript, Express. Teclab — Integraciones Web.
+- **[turnos-medicos](https://github.com/luci060925/turnos-medicos)** — REST API for managing medical specialties and professionals: CRUD with soft deletes, cross-validation, UUID identifiers, async controllers with try/catch error handling, and a global 404 handler. In-memory data loaded from JSON. Node.js 24, TypeScript, Express. Teclab — Integraciones Web.
 
 ## Get in touch
 
